@@ -1,3 +1,4 @@
+
 # PDP-8/E emulator for the Adafruit Fruit Jam
 
 This turns an [Adafruit Fruit Jam](https://www.adafruit.com/product/6200) (RP2350B) into a
@@ -8,6 +9,8 @@ versions: DEC's TSS/8.24, and **UWM TSS/8.25** from the University of Wisconsinâ
 is assembled from source (see [`uwm/`](uwm/README.md)).
 Output goes to an HDMI/DVI monitor as an 80Ã—30 green-screen terminal. You type on a USB keyboard,
 or connect from a computer over the USB-C serial ports.
+
+<img width="3796" height="2680" alt="IMG_6157" src="https://github.com/user-attachments/assets/b85003a7-7aff-4bf0-9c8f-37d941f677db" />
 
 ```
 Adafruit Fruit Jam PDP-8/E - OS/8 V3D - KBM V3Q - CCL V1F
